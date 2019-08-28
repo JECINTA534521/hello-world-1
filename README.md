@@ -2,6 +2,9 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
+
+- [JECINTA WANJIRU](https://github.com/JECINTA534521)
+
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
